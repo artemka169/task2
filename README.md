@@ -1,2 +1,2 @@
-# task2
-task 2 for econometrics course in science po university
+# Task 2
+Task 2 for econometrics course in science po university
